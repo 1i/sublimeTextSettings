@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"FileIcons",
+		"Gradle_Language",
+		"Indent XML",
+		"KeyboardSpellCheck",
+		"Log Highlight",
+		"Log4jView",
+		"LogView",
+		"MarkdownPreview",
+		"MarkdownTOC",
+		"Package Control",
+		"Pretty YAML",
+		"SublimeLinter",
+		"SublimeLinter-contrib-yaml-lint",
+		"SublimeLinter-contrib-yamllint",
+		"Terminus",
+		"WakaTime",
+	],
+}
